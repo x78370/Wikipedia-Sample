@@ -19,3 +19,16 @@ body{
 	background:url("../img/geometry.png");
 	font-family: 'Kite One', sans-serif;
 }
+
+h3{
+	background: #FF9578;
+}
+
+p, ul{
+	background: #77BFA2;
+}
+
+footer p{
+	background: none;
+}
+
