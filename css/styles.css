@@ -1,1 +1,8 @@
 /* Stylesheet */
+header {
+	background: blue;
+}
+
+nav {
+	background: green;
+}
