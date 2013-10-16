@@ -1,8 +1,20 @@
-/* Stylesheet */
+/*
+Colors:
+Dirty Brown #BF885A
+Corally #F57676
+bitter orange #FF9578
+Flax #E6C987
+Seafoam #77BFA2
+
+*/
 header {
-	background: blue;
+	background: #F57676;
 }
 
 nav {
-	background: green;
+	background: #E6C987;
+}
+
+body{
+	background:url("../img/geometry.png");
 }
